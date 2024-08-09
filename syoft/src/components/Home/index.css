@@ -1,0 +1,55 @@
+.mainDiv{   
+    background-image: url("https://res.cloudinary.com/dj2tk6c0s/image/upload/v1723233855/hava%20havi/Screenshot_2024-08-10_013350_eihme1.png");
+    background-size: cover;
+    height: 60vh;
+    width: 45vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 20px;
+
+}
+@media screen and (max-width: 475px) {
+    .mainDiv{
+        background-image: url("https://res.cloudinary.com/dj2tk6c0s/image/upload/v1723233855/hava%20havi/Screenshot_2024-08-10_013350_eihme1.png");
+        height:150px;
+        width: 250px;
+    }
+}
+div{
+    width:500px;
+    margin: auto;
+}
+
+
+.link{
+    text-decoration: none;
+  }
+
+
+.img{
+    height: 400px;
+    width: 800px;
+}
+
+.login{
+    padding: 8px 15px 8px 15px;
+    font-family: "Roboto";
+    font-size: 18px;
+    color:rgb(10, 30, 47);
+    background-color:transparent;
+    border:none;
+
+
+}
+.register{
+    padding: 8px 15px 8px 15px;
+    font-family: "Roboto";
+    font-size: 18px;
+    color:rgb(10, 30, 47);
+    background-color:transparent;
+    border:none;
+    
+
+}

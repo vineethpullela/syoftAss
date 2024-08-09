@@ -1,0 +1,40 @@
+.dash-container{
+    background-color: rgb(219, 219, 224);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    line-height: 1.5;
+}
+
+.dash-header{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: rgb(39, 141, 230);
+}
+
+.name{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: rgb(12, 14, 16);
+}
+.email{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: rgb(12, 14, 16);
+   
+}
+
+.company{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: rgb(12, 14, 16);
+}
+
+
+.password{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: rgb(12, 14, 16);
+}
